@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.txt{
+    font-size: 2rem;
+    font-weight: bold;
+}
+.digit{
+    font-size: 10rem;
+    font-weight: bold;
+}
+.btn-cont{
+    text-align: center;
+    
+}
+.btn{
+padding: 10px 25px;
+margin: 20px 15px;
+cursor: pointer;
+}
